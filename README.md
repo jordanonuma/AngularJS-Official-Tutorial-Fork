@@ -1,4 +1,4 @@
-AngularJS-Official-Tutorial-Fork-
+AngularJS-Official-Tutorial-Fork
 =================================
 
 Refreshing myself how GitHub works by forking AngularJS' tutorial.
